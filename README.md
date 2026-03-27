@@ -1,20 +1,23 @@
-Data Structure University
+# Data Structure University
 
-Um repositório focado em aprendizado estruturado de **Data Structures & Algorithms (DSA)**, reunindo teoria, prática e recursos para evoluir de forma consistente.
+A structured repository for learning **Data Structures & Algorithms (DSA)**, combining theory and hands-on practice.
 
 ---
 
-## Objetivo
+## Objective
 
-Este projeto serve como:
+This project serves as:
 
-- Guia de estudos em DSA
-- Prática da Universidade
-- Repositório de conhecimento (teoria + prática)
-- Base para implementação de algoritmos
+- A DSA study guide  
+- Academic and practical exercises  
+- A knowledge base (theory + implementation)  
+- A foundation for building efficient algorithms  
+
 ---
 
-## Conteúdo
+## Content
 
-### Estruturas de Dados
+### Data Structures
 - Arrays
+
+---
